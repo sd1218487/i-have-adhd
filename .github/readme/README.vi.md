@@ -15,6 +15,7 @@
   <a href="README.ja.md" title="日本語" aria-label="日本語">🇯🇵</a> ·
   <strong title="Tiếng Việt" aria-label="Tiếng Việt">🇻🇳</strong> ·
   <a href="README.ko.md" title="한국어" aria-label="한국어">🇰🇷</a> ·
+  <a href="README.fa.md" title="فارسی" aria-label="فارسی">🇮🇷</a> ·
   <a href="README.th.md" title="ภาษาไทย" aria-label="ภาษาไทย">🇹🇭</a>
 </p>
 
@@ -92,6 +93,6 @@ Lấy cảm hứng một phần từ cuốn *The Adult ADHD Tool Kit* của J. R
 
 ## Giấy phép
 
-MIT.
+[MIT](../../LICENSE).
 
 Hãy ⭐ repo nếu nó giúp bạn khỏi phải cuộn qua thêm một câu “Câu hỏi rất hay!”

@@ -15,6 +15,7 @@
   <a href="README.ja.md" title="日本語" aria-label="日本語">🇯🇵</a> ·
   <a href="README.vi.md" title="Tiếng Việt" aria-label="Tiếng Việt">🇻🇳</a> ·
   <a href="README.ko.md" title="한국어" aria-label="한국어">🇰🇷</a> ·
+  <a href="README.fa.md" title="فارسی" aria-label="فارسی">🇮🇷</a> ·
   <strong title="ภาษาไทย" aria-label="ภาษาไทย">🇹🇭</strong>
 </p>
 
@@ -94,6 +95,6 @@ claude plugin install i-have-adhd@i-have-adhd
 
 ## สัญญาอนุญาต
 
-MIT
+[MIT](../../LICENSE)
 
 กดดาว ⭐ หากมันช่วยให้คุณไม่ต้องเลื่อนผ่านคำว่า “เป็นคำถามที่ดีมาก!” อีกครั้ง
